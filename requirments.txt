@@ -1,0 +1,19 @@
+```txt
+# RPT Move File Requirements
+# No external dependencies required - uses standard Python libraries
+
+# Python 3.6 or higher required
+# Standard libraries used:
+# - os
+# - sys
+# - shutil
+# - getpass
+# - time
+
+# For future enhancements:
+# colorama==0.4.6
+# argparse==1.4.0
+# psutil==5.9.5
+
+# To install (if adding dependencies):
+# pip install -r requirements.txt

@@ -1,0 +1,19 @@
+Save File :
+sudo nano rpt_move.py
+
+
+
+# Run Method 1 :
+sudo python3 rpt_move.py
+
+# Run Method 2 :
+sudo chmod +x rpt_move.py
+sudo ./rpt_move.py
+
+
+
+Permanent install :
+chmod +x install.sh
+./install.sh
+# and Run
+sudo rpt-move

@@ -1,0 +1,7 @@
+rpt-move-file/
+├── rpt_move.py      # Main program
+├── install.sh       # Installation script
+├── requirements.txt # Python dependencies
+├── LICENSE          # MIT License
+├── CHANGELOG.md     # Version history
+└── README.md        # This file
